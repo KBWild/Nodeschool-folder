@@ -1,0 +1,7 @@
+If you know 'such' is the only and the fastest and only solution you know
+just do it and get the result. You can optimise later on. Improve on.
+
+Dont do perfect, do right and necessary.
+
+
+Test the programs using the VM rather than you trying to process it in your brain.

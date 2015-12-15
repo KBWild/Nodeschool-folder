@@ -1,0 +1,300 @@
+    at exports.runInThisContext (vm.js:73:16)
+    at Module._compile (module.js:443:25)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:501:10)
+    at startup (node.js:129:16)
+    at node.js:814:3
+
+C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool\learnyounode>learnyounode
+run myfirstio.js C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool\learnyoun
+ode\myfirstio.js
+C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool\learnyounode\myfirstio.js:
+83
+for(var i=0;i<str_to_substr.length();i++)
+                            ^
+TypeError: number is not a function
+    at Object.<anonymous> (C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool
+\learnyounode\myfirstio.js:83:29)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:501:10)
+    at startup (node.js:129:16)
+    at node.js:814:3
+
+C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool\learnyounode>learnyounode
+run myfirstio.js C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool\learnyoun
+ode\myfirstio.js
+The total number of newlines in file of path C:\Program Files\nodejs\node.exe is
+ 0
+
+C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool\learnyounode>learnyounode
+run myfirstio.js C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool\learnyoun
+ode\myfirstio.js
+The total number of newlines in file of path C:\Program Files\nodejs\node.exe is
+ -1
+
+C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool\learnyounode>learnyounode
+run myfirstio.js C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool\learnyoun
+ode\myfirstio.js
+fs.js:502
+  return binding.open(pathModule._makeLong(path), stringToFlags(flags), mode);
+                 ^
+TypeError: path must be a string
+    at TypeError (native)
+    at Object.fs.openSync (fs.js:502:18)
+    at Object.fs.readFileSync (fs.js:354:15)
+    at Object.<anonymous> (C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool
+\learnyounode\myfirstio.js:68:23)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:501:10)
+    at startup (node.js:129:16)
+
+C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool\learnyounode>learnyounode
+run myfirstio.js C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool\learnyoun
+ode\myfirstio.js
+fs.js:502
+  return binding.open(pathModule._makeLong(path), stringToFlags(flags), mode);
+                 ^
+TypeError: path must be a string
+    at TypeError (native)
+    at Object.fs.openSync (fs.js:502:18)
+    at Object.fs.readFileSync (fs.js:354:15)
+    at Object.<anonymous> (C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool
+\learnyounode\myfirstio.js:68:23)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:501:10)
+    at startup (node.js:129:16)
+
+C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool\learnyounode>learnyounode
+run myfirstio.js C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool\learnyoun
+ode\myfirstio.js
+The total number of newlines in file of path C:\Program Files\nodejs\node.exe is
+ -1
+
+C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool\learnyounode>learnyounode
+run myfirstio.js C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool\learnyoun
+ode\myfirstio.js
+The total number of newlines in file of path C:\Program Files\nodejs\node.exe is
+ -1
+
+C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool\learnyounode>learnyounode
+run myfirstio.js C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool\learnyoun
+ode\myfirstio.js
+fs.js:502
+  return binding.open(pathModule._makeLong(path), stringToFlags(flags), mode);
+                 ^
+TypeError: path must be a string
+    at TypeError (native)
+    at Object.fs.openSync (fs.js:502:18)
+    at Object.fs.readFileSync (fs.js:354:15)
+    at Object.<anonymous> (C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool
+\learnyounode\myfirstio.js:68:23)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:501:10)
+    at startup (node.js:129:16)
+
+C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool\learnyounode>learnyounode
+run myfirstio.js myfirstio.js
+fs.js:502
+  return binding.open(pathModule._makeLong(path), stringToFlags(flags), mode);
+                 ^
+TypeError: path must be a string
+    at TypeError (native)
+    at Object.fs.openSync (fs.js:502:18)
+    at Object.fs.readFileSync (fs.js:354:15)
+    at Object.<anonymous> (C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool
+\learnyounode\myfirstio.js:68:23)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.Module.runMain (module.js:501:10)
+    at startup (node.js:129:16)
+
+C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool\learnyounode>learnyounode
+verify myfirstio.js
+fs.js:502
+  return binding.open(pathModule._makeLong(path), stringToFlags(flags), mode);
+                 ^
+TypeError: path must be a string
+    at TypeError (native)
+    at Object.fs.openSync (fs.js:502:18)
+    at Object.fs.(anonymous function) [as openSync] (C:\Users\Phuong\AppData\Roa
+ming\npm\node_modules\learnyounode\exercises\my_first_io\wrap.js:30:19)
+    at Object.fs.readFileSync (fs.js:354:15)
+    at Object.fs.(anonymous function) [as readFileSync] (C:\Users\Phuong\AppData
+\Roaming\npm\node_modules\learnyounode\exercises\my_first_io\wrap.js:30:19)
+    at Object.<anonymous> (C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool
+\learnyounode\myfirstio.js:68:23)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+
+Your submission results compared to the expected:
+
+                 ACTUAL                                 EXPECTED
+
+--------------------------------------------------------------------------------
+
+
+   ""                                  !=    "35"
+
+                                       !=    ""
+
+
+--------------------------------------------------------------------------------
+
+
+? Submission results did not match expected!
+V Used synchronous method: fs.readFileSync()
+
+# FAIL
+
+Your solution to MY FIRST I/O! didn't pass. Try again!
+
+
+C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool\learnyounode>learnyounode
+verify myfirstio.js
+
+Your submission results compared to the expected:
+
+                 ACTUAL                                 EXPECTED
+
+--------------------------------------------------------------------------------
+
+
+   "The total number of newlines in file of path C:\\Program Files\\nodejs\\node
+.exe is -1" !=    "5"
+   ""                                  ==    ""
+
+
+--------------------------------------------------------------------------------
+
+
+? Submission results did not match expected!
+V Used synchronous method: fs.readFileSync()
+
+# FAIL
+
+Your solution to MY FIRST I/O! didn't pass. Try again!
+
+
+C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool\learnyounode>learnyounode
+verify myfirstio.js
+
+Your submission results compared to the expected:
+
+                 ACTUAL                                 EXPECTED
+
+--------------------------------------------------------------------------------
+
+
+   "The total number of newlines in file of path C:\\Program Files\\nodejs\\node
+.exe is -1" !=    "30"
+   ""                                  ==    ""
+
+
+--------------------------------------------------------------------------------
+
+
+? Submission results did not match expected!
+V Used synchronous method: fs.readFileSync()
+
+# FAIL
+
+Your solution to MY FIRST I/O! didn't pass. Try again!
+
+
+C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool\learnyounode>learnyounode
+verify myfirstio.js
+
+Your submission results compared to the expected:
+
+                 ACTUAL                                 EXPECTED
+
+--------------------------------------------------------------------------------
+
+
+   "-1"                                !=    "19"
+
+   ""                                  ==    ""
+
+
+--------------------------------------------------------------------------------
+
+
+? Submission results did not match expected!
+V Used synchronous method: fs.readFileSync()
+
+# FAIL
+
+Your solution to MY FIRST I/O! didn't pass. Try again!
+
+
+C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool\learnyounode>learnyounode
+verify myfirstio.js
+
+Your submission results compared to the expected:
+
+                 ACTUAL                                 EXPECTED
+
+--------------------------------------------------------------------------------
+
+
+   "-1"                                !=    "25"
+
+   ""                                  ==    ""
+
+
+--------------------------------------------------------------------------------
+
+
+? Submission results did not match expected!
+V Used synchronous method: fs.readFileSync()
+
+# FAIL
+
+Your solution to MY FIRST I/O! didn't pass. Try again!
+
+
+C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool\learnyounode>learnyounode
+verify myfirstio.js
+
+Your submission results compared to the expected:
+
+                 ACTUAL                                 EXPECTED
+
+--------------------------------------------------------------------------------
+
+
+   "-1"                                !=    "19"
+
+   ""                                  ==    ""
+
+
+--------------------------------------------------------------------------------
+
+
+? Submission results did not match expected!
+V Used synchronous method: fs.readFileSync()
+
+# FAIL
+
+Your solution to MY FIRST I/O! didn't pass. Try again!
+
+
+C:\Users\Phuong\Documents\Personal Uni-Job\nodeschool\learnyounode>

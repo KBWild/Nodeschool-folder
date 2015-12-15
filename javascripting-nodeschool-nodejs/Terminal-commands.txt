@@ -1,0 +1,25 @@
+C:\Users\Phuong>mkdir javascripting-nodeschool-nodejs
+	
+	mkdir - Makes a directory, a folder named "javascripting-nodeschool-nodejs" into 
+	the folder of the user, in this case Phuong.
+
+	Format of cmd prompt: mkdir "name of the folder"
+
+C:\Users\Phuong>cd javascripting-nodeschool-nodejs
+
+	cd - Changes directory to "javascripting-nodeschool-nodejs"
+
+C:\Users\Phuong\javascripting-nodeschool-nodejs>type NUL > introduction.js
+
+	"type NUL > introduction.js" <--- This command 
+	
+	Creates a .js (javascript) file in the directory 
+	"javascripting-nodeschool-nodejs" named "introduction.js"
+
+C:\Users\Phuong\javascripting-nodeschool-nodejs>type NUL > Terminal-commands.txt
+
+C:\Users\Phuong\javascripting-nodeschool-nodejs>program.js
+	Opens the file "program.js"
+
+
+

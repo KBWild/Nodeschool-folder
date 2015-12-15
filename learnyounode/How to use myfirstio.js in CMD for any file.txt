@@ -1,0 +1,12 @@
+You can use myfirstio.js app anywhere as long as you have it in the folder with the file you want to count the newlines.
+
+1.Go to Node.js CMD
+2.Go to the path where it has your nodejs file (using CD change directory etc)
+3. Type the arguments in the command line in format 
+node 'nodejsapp.js' filetoberead.ext
+
+.ext - file extension
+
+C:\Users\John\Documents\Personal Docs\nodeschool\learnyounode>node myfirstio.js penne.txt
+0
+
