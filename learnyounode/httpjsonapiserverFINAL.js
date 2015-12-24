@@ -30,7 +30,7 @@
 
     // { "unixtime": 1376136615474 }
 
-// Your server should listen on the port provided by the first argument to your pro
+// Your server should listen on thhe port provided by the first argument to your pro
 // gram.
 
 // -------------------------------------------------------------------------------

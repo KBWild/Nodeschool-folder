@@ -1,0 +1,4 @@
+
+type: cd 'dir'
+
+'dir' : ~\documents\Personal Uni-Job\nodeschool
