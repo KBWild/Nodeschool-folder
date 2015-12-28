@@ -1,0 +1,56 @@
+var list = function(friends)
+{
+    for(var key in friends)
+    {
+        console.log(key);
+    }
+}
+
+
+var search = function(name)
+{
+    for(var friend in friends)
+    {
+        if(friends[friend].firstName === name)
+        {
+            console.log(friends[friend]);
+            return friends[friend];
+        }
+    }
+}
+
+
+
+
+
+var friends = {
+
+john:{
+    firstName:"john",
+    lastName:"smith",
+    number: "555-0000",
+    address: ['smitherson street','55 lovely avenue'],
+},
+
+tom:{
+    firstName:"tom",
+    lastName:"lankin",
+    number: "555-1234",
+    address:['lanky road','lankton street 99'],
+    },
+    
+bill: {
+    firstName:"Bill",
+    lastName:"gates",
+    number: "555-2345",
+    address:['software billionaire','haphazard street steely 51'],
+},
+
+steve:{
+    firstName:"Steve",
+    lastName:"jobs",
+    number: "555-3456",
+    address:['software creative millionaire','creative LSD since college years'],
+},
+};
+

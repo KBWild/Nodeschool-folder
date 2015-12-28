@@ -1,0 +1,14 @@
+/*Add your CSS below!*/
+p{
+    font-family:garamond;
+}
+body > p{/* i.e. paragraphs directly inside of the body element*/
+    font-weight:bold;
+}
+div > p{/* i.e. paragraphs directly inside of the divider element*/
+    color:#7AC5CD;
+}
+ul > li> p{
+    color:#000000;
+    text-decoration:underline;
+}
