@@ -1,0 +1,11 @@
+How to test code against the solution?
+
+" 'module name' verify 'javascript_doc_toverify.js' "
+
+stream-adventure verify websockets.js
+
+How to set the a directory pernanently until changed? (Eliminates the need for constant copy 
+and paste of directory)
+http://stackoverflow.com/questions/4895966/changing-default-startup-directory-for-command-prompt-in-windows-7
+
+To much of hassle and changes too much to easily revert or change.
