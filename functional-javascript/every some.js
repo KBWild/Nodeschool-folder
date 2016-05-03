@@ -50,10 +50,8 @@
 
 // ## Resources
 
-  // * https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/
-// Array/every
-  // * https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/
-// Array/some
+  // * https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/every
+  // * https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/some
 
 // ## Boilerplate
 
@@ -82,3 +80,17 @@
 
 // C:\Users\Phuong\Documents\Personal Uni-Job\Nodeschool-folder\functional-javascript
 // >
+
+
+function checkUsersValid(goodUsers) {
+	return function allUsersValid(submittedUsers) {
+		return submittedUsers.every(function testgoodUsers(submittedUser,index,arr){
+			return goodUsers.some(function(goodUser){
+				return goodUser.id === submittedUser.id;
+			});	
+		});		
+    }
+};
+
+    module.exports = checkUsersValid;
+
